@@ -1,0 +1,68 @@
+body {
+  background-color: #96c9de;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  font-size: 19px;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 35px;
+}
+
+#paragraph2 {
+  width: 52%;
+  padding: 30px;
+  border: 5px solid green;
+  background-color: white;
+  line-height: 1.5;
+  font-size: 19.5px;
+  margin: 25px;
+}
+
+.blue {
+  background-color: #060a75;
+  color: white;
+  padding: 20px;
+  margin: 10px 0;
+  font-size: 19.5px;
+  border: 2px solid black;
+}
+
+ol li a {
+  color: blue;
+  font-size: 18px;
+}
+
+a[href*="w3schools"] {
+  color: darkred;
+}
+
+ol {
+  list-style-type: decimal-leading-zero;
+  font-size: 25px;
+}
+
+table {
+  width: 39%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: lightgray;
+  border: 2px solid black;
+  padding: 8px;
+}
+
+td {
+  background-color: white;
+  border: 2px solid black;
+  padding: 8px;
+}
